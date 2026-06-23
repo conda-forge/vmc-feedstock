@@ -68,17 +68,17 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_root_base6.40.0root_cxx_standard20</td>
+              <td>osx_64_root_base6.40.2root_cxx_standard20</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28562&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vmc-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_root_base6.40.0root_cxx_standard20" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vmc-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_root_base6.40.2root_cxx_standard20" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_root_base6.40.0root_cxx_standard23</td>
+              <td>osx_64_root_base6.40.2root_cxx_standard23</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28562&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vmc-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_root_base6.40.0root_cxx_standard23" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vmc-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_root_base6.40.2root_cxx_standard23" alt="variant">
                 </a>
               </td>
             </tr>
